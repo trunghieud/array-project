@@ -1,6 +1,6 @@
-# Automation Project
+# Array Project
 
-*Structure for creating a basic automation test using Selenium.*
+*Structure for creating a basic array project.*
 
 **Java 8**
 
